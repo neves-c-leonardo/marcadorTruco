@@ -1,3 +1,3 @@
 # Marcador de Truco
 
-Aplicativo programado em 100% Flutter
+Aplicativo com intuito de apoiar na hora do jogo!
